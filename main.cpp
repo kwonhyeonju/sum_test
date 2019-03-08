@@ -2,8 +2,8 @@
 #include "sum.h"
 
 int main(){
-	int i = sum(100);
-	printf("%d\n",i);
-	return 0;
+	scanf("%d %d",a,b);
+	int i = sum(a,b);
+	printf("%d", i);
 }
 
